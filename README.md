@@ -1,6 +1,7 @@
 # DictionaryIndexer
 Parsing files against googles 1000 most common words and a dictionary file. outputting the dictionary definition and the times the word appeared in the text file.  Use of virtual threads 
 
+all code should be run using eclipse or other java programming software.
 
 This project is set up around using a runner class which loads a menu driven interface that allows for user input. This menu has multiple options which each have different interactions based on the users choice. This menu allows for the user to select a file from their system again using a JFrame with buttons system, which will store the selected filed to the memory of the executor of the program. (the frame must remain open for the duration of running to keep memory alive, however it can easily be tabbed away from in eclipse).
 
