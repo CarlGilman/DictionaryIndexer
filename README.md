@@ -1,5 +1,5 @@
 # DictionaryIndexer
-Parsing files against googles 1000 most common words and a dictionary file. outputting the dictionary definition and the times the word appeared in the text file.  Use of virtual threads 
+Parsing files against googles 1000 most common words and a dictionary file. outputting the dictionary definition and the times the word appeared in the text file.  Use of virtual threads in this project.
 
 All code should be run using eclipse or other java programming software.
 
